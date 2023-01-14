@@ -14,7 +14,8 @@ body{
 }
 
  .text {
-    font-size: 30px;
+    font-size: 20px;
+    
 }
 
 .mainimage {
@@ -26,4 +27,8 @@ body{
 
 .font {
     font-family: 'Times New Roman', Times, serif;
+}
+
+.center {
+    text-align: center;
 }
